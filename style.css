@@ -1,0 +1,24 @@
+*{
+    margin: 0 16PX;
+    padding: 24PX 0;
+    }
+    .cabecalho {
+    Width : 100% ;
+    background-color:#d53333 o;;
+    color: white ; 
+    display: flex ;
+    justify - content : space-around ;
+    padding: 24 PX 0 ; 
+    }
+    .cabecalho-imagem {
+    width:20%;
+    }
+    cabecalho-lita-item{ 
+    display:inline-block
+    }
+    cabecalho-lista.item{
+    display:inline-block;
+    margin:016PX;
+    padding:24PX 0;
+    font-size :24PX;
+    }
