@@ -1,0 +1,44 @@
+*{
+    margin: 0 16PX;
+    padding: 24PX 0;
+    }
+    .cabecalho {
+    Width : 100% ;
+    background-color:#5a8dd1;
+    color: rgb(21, 19, 145) ; 
+    display: flex ;
+    justify-content: space-around;
+    padding: 12 PX 0; 
+    }
+    .cabecalho-imagem {
+    width: 30%;
+    }
+    cabecalho-lita-item{ 
+    display:inline-block
+    }
+    cabecalho-lista.item{
+    display:inline-block;
+    margin:0 16PX;
+    padding:34PX 0;
+    font-size :30PX;
+    }
+    .escola {
+        width:25%;
+    } 
+    .escola {
+        background-image: linear-gradient(#383D58,#00c0eb);
+        color: white;
+        display: flex;
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        align-items: center;
+        padding: 24px 0;
+        } 
+    .escola-conteudo{
+        width: 35% 
+    }
+    .escola-titulo{
+        padding: 24px 0;
+    }
+
